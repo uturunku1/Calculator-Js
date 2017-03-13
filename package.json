@@ -1,0 +1,16 @@
+{
+  "name": "ping-pong",
+  "version": "1.0.0",
+  "description": "A sample web app of a calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Stella and David",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
